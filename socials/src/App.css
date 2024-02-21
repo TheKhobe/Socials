@@ -1,0 +1,7 @@
+body{
+  background-color: hsl(0, 0%, 8%);
+  font-family: "Inter", sans-serif;
+}
+h1, h3, p, a {
+  font-family: "Inter", sans-serif;
+}
